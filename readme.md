@@ -1,14 +1,14 @@
 # Duplii Congratulation
 
-This is the template we'll use for quickly prototyping animations and special effects.
+This is a congratulation screen that will be presented to our user when he performs certain actions such as signing up leads with their company. It looks unbearably cool.
 
-I am also including the `config.codekit` file so that everyone using Codekit will be able to get started immediately.
+This repo actually contains very little code. We are mostly reusing stuff from other repos that contain most of the logic. Here we just need to build the markup, apply styles and adjust a couple of things that are specific to this screen.
 
 ## Live demo
 
-A live demo of this project can be found at [Insert Link Here](http://duplii.com/ "Duplii | We Make Duplication Happen").
+A live demo of this project can be found [here](http://duplii.github.io/duplii-congratulation "Duplii | Congratulation Animation").
 
-Include an optional image to preview the project.
+<img src="http://duplii.github.io/duplii-congratulation/public/screenshot.jpg" alt="Duplii Congratulation Screen Preview" />
 
 ## MIT License
 
