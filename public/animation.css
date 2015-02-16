@@ -1,3 +1,10 @@
 /**************************************************/
 /*************** animation specific ***************/
 /**************************************************/
+.congratulation-container {
+  color: white; }
+
+.congratulation-container__undo {
+  color: #938F8D;
+  font-size: 12px;
+  margin-top: 15px; }

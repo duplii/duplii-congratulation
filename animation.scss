@@ -1,4 +1,15 @@
+$main: #938F8D;
+
 /**************************************************/
 /*************** animation specific ***************/
 /**************************************************/
 
+.congratulation-container {
+	color: white;
+}
+
+.congratulation-container__undo {
+	color: $main;
+	font-size: 12px;
+	margin-top: 15px;
+}
