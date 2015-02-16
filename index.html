@@ -30,10 +30,26 @@
 	</header>
 	
 	<div class="animation-container">
-		
+		<div class="congratulation-container">
+			<div class="celebration-container">
+				<div class="bubble-container bubble-container--left" data-bubble-quantity="8"></div>
+				<div class="bubble-container bubble-container--right" data-bubble-quantity="8" data-bubble-align="right"></div>
+				<div class="vertically-center celebration-message">
+					<h2>Congratulations!</h1>
+					<h3>Woooo! You scored a sign-up. Keep going strong.</h2>
+					<button class="btn btn-orange btn-big modal-button--show-next">Confirm</button>
+					<a href="#">Ops, sorry. I got it wrong. Undo.</a>
+				</div>
+			</div>
+		</div>
 	</div>
 	
 	<small>Insert description text here.</small>
 	<script src="http://duplii.github.io/duplii-bubble/public/animation-min.js"></script>
+	<script>
+		window.addEventListener('load', function() {
+			celebrate();
+		});
+	</script>
 </body>
 </html>
